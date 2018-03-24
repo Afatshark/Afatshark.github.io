@@ -1,0 +1,14 @@
+img{
+    width: 200px;
+    height: 200px;
+}
+body { 
+    background-image:url("Pictures/Dragonball.jpg");
+     background-position:right;
+    background-color: ;
+    text-align: center;
+    font-family: "Arial";
+    color: yellow;
+    <img align: "left">
+    
+}
