@@ -1,6 +1,7 @@
 img{
     width: 200px;
     height: 200px;
+    alignment-baseline: central;
 }
 body { 
     background-image:url("Pictures/Dragonball.jpg");
@@ -9,6 +10,6 @@ body {
     text-align: center;
     font-family: "Arial";
     color: yellow;
-    <img align: "left">
+   
     
 }
